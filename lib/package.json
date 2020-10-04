@@ -1,0 +1,34 @@
+{
+  "name": "react-mobx-routing-modal",
+  "version": "1.0.0-alpha",
+  "description": "Pop-ups related to URL",
+  "main": "index.js",
+  "module": "index.es6.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d8corp/react-mobx-routing-modal.git"
+  },
+  "keywords": [
+    "modal",
+    "popup",
+    "react",
+    "mobx",
+    "router",
+    "url",
+    "front-end"
+  ],
+  "author": "Mikhail Lysikov <d8corp@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d8corp/react-mobx-routing-modal/issues"
+  },
+  "homepage": "https://github.com/d8corp/react-mobx-routing-modal",
+  "dependencies": {
+    "mobx": ">=3",
+    "mobx-react": ">=3",
+    "react": ">=16.3",
+    "react-mobx-modal": "^1.0.0-beta",
+    "react-mobx-routing": "^1.0.16",
+    "tslib": ">=2"
+  }
+}
